@@ -4,4 +4,5 @@
 {"id":4,"maker":"Mitsubishi","model":"Lancer Evo","year":"2003","engine": "2.0l 4G63T", "country": "Japan", "image": "https://s.auto.drom.ru/i24269/c/photos/fullsize/mitsubishi/lancer_evolution/mitsubishi_lancer_evolution_1074306.jpg"},
 {"id":5,"maker":"Honda","model":"Civic","year":"1994","engine": "1.6l b16a", "country": "Japan", "image": "https://s.auto.drom.ru/i24196/c/photos/fullsize/honda/civic/honda_civic_480328.jpg"},
 {"id":6,"maker":"Lexus","model":"is200","year":"1998","engine": "2.0l 1G-FE", "country": "Japan","image": "https://s.auto.drom.ru/i24201/c/photos/fullsize/lexus/is200/lexus_is200_633855.jpg"},
-{"id":7,"maker":"BMW","model":"M3","year":"1997","engine": "3.0l S50B30", "country": "Germany", "image": "https://s.auto.drom.ru/i24217/c/photos/fullsize/bmw/m3/bmw_m3_785796.jpg"}]
+{"id":7,"maker":"BMW","model":"M3","year":"1997","engine": "3.0l S50B30", "country": "Germany", "image": "https://s.auto.drom.ru/i24217/c/photos/fullsize/bmw/m3/bmw_m3_785796.jpg"},
+{"id":8,"maker":"Subaru","model":"Impreza WRX 2","year":"2005","engine": "2.5l EJ255", "country": "Japan", "image": "https://s.auto.drom.ru/i24208/c/photos/fullsize/subaru/impreza_wrx/subaru_impreza_wrx_707609.jpg"}]
