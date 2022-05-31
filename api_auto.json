@@ -1,0 +1,7 @@
+[{"id":1,"maker":"Mazda","model":"MX-5","year":1998,"engine": "1.6l b6d", "image": "https://s.auto.drom.ru/i24203/c/photos/fullsize/mazda/mx-5/mazda_mx-5_655472.jpg"},
+{"id":2,"maker":"Volkswagen","model":"Golf","year":2000,"engine": "1.6l  AEH, AKL, APF", "image": "https://s.auto.drom.ru/img4/catalog/photos/fullsize/volkswagen/golf/volkswagen_golf_185748.jpg"},
+{"id":3,"maker":"Mercedes-Benz","model":"CLK-Class","year":1998,"engine": "2.0l M 111 E 20", "image": "https://s.auto.drom.ru/i24198/c/photos/fullsize/mercedes-benz/clk-class/mercedes-benz_clk-class_566964.jpg"},
+{"id":4,"maker":"Mitsubishi","model":"Lancer Evo","year":2003,"engine": "2.0l 4G63T", "image": "https://s.auto.drom.ru/i24269/c/photos/fullsize/mitsubishi/lancer_evolution/mitsubishi_lancer_evolution_1074306.jpg"},
+{"id":5,"maker":"Honda","model":"Civic","year":1994,"engine": "1.6l b16a", "image": "https://s.auto.drom.ru/i24196/c/photos/fullsize/honda/civic/honda_civic_480328.jpg"},
+{"id":6,"maker":"Lexus","model":"is200","year":1998,"engine": "2.0l 1G-FE", "image": "https://s.auto.drom.ru/i24201/c/photos/fullsize/lexus/is200/lexus_is200_633855.jpg"},
+{"id":7,"maker":"BMW","model":"M3","year":1997,"engine": "3.0l S50B30", "image": "https://s.auto.drom.ru/i24217/c/photos/fullsize/bmw/m3/bmw_m3_785796.jpg"}]
